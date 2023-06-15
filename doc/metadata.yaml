@@ -4,9 +4,9 @@ github_repo: SHT25V01
 github_url: https://github.com/mlab-modules/SHT25V01
 homepage: false
 images:
+- doc/img/SHT25_small.jpg
 - doc/img/SHT25V01A_top_big.jpg
 - doc/img/SHT25V01A_top_small.jpg
-- doc/img/SHT25_small.jpg
 - doc/img/SHT25V01A_QRcode.png
 - test/heating_control/Heating_alter.png
 - test/heating_control/Heating_alter2.png
