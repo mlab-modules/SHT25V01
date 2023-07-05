@@ -1,6 +1,6 @@
 # SHT25V01A
 
-This module was replaced with newer [MLAB](https://www.mlab.cz) module [SHT31V01](https://github.com/mlab-modules/SHT31V01). Please check this module. 
+**This module was replaced with newer [MLAB](https://www.mlab.cz) module [SHT31V01](https://github.com/mlab-modules/SHT31V01). Please check this module.**
 
 <!--- subtitle --->Digital sensor relative humidity and temperature<!--- Esubtitle --->
 
