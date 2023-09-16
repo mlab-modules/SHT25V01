@@ -13,6 +13,7 @@ images:
 - test/heating_control/Heating_alter.png
 mark: 10
 replaced: SHT31V01
+status: 3
 tags:
 - mlab
 - mlab-module
